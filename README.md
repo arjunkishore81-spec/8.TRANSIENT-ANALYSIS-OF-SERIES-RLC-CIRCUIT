@@ -21,6 +21,7 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 **CIRCUIT DIAGRAM:**
+<img width="1080" height="1553" alt="image" src="https://github.com/user-attachments/assets/774bd89a-a327-44ef-8cb1-c6f40bf06d7c" />
 
 
 
